@@ -1,0 +1,28 @@
+{
+    
+    "user": "[data-test=username]",
+    "password": "[data-test=password]",
+    "loginButton": "[data-test=login-button]",
+    "cart": ".shopping_cart_link",
+    "title": ".title",
+    "bagpack": "#item_4_title_link > .inventory_item_name",
+    "returnPage": "[data-test=back-to-products]",
+    "jacket": "#item_5_title_link > .inventory_item_name",
+    "tshirt": "#item_3_title_link > .inventory_item_name",
+    "addCartBagPack": "[data-test=add-to-cart-sauce-labs-backpack]",
+    "shoppingCart": ".shopping_cart_link",
+    "priceProduct": ".inventory_item_price",
+    "priceProductStore": ":nth-child(1) > .inventory_item_description > .pricebar > .inventory_item_price",
+    "removeProduct": "[data-test=remove-sauce-labs-backpack]"
+   
+    
+    
+    
+
+
+
+   
+
+   
+    
+}
